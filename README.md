@@ -1,3 +1,5 @@
+## Perfil para intuito de estudos na plataforma GitHub.
+
 ## Projeto de laboratório [DIO](https://github.com/digitalinnovationone/dio-lab-open-source)
 
 ## Apresentação
